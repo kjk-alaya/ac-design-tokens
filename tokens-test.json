@@ -4,6 +4,7 @@
       "root": {
         "surface-ground": {
           "value": "#f3f5f7",
+          "description":"Used for page background",
           "type": "color"
         },
         "surface-section": {
