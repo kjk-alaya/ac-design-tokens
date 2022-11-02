@@ -3567,7 +3567,7 @@
         "type": "borderRadius"
       },
       "md": {
-        "value": "4px",
+        "value": "6px",
         "type": "borderRadius"
       },
       "lg": {
