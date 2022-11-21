@@ -3642,7 +3642,7 @@
       "type": "borderRadius"
     },
     "default": {
-      "value": "{space.04} {space.04}",
+      "value": "{space.04}",
       "type": "spacing",
       "description": "Default system spacing"
     },
