@@ -3623,9 +3623,14 @@
         "type": "sizing"
       },
       "default": {
-        "value": "8px 16px",
+        "value": "{space.04} 16px",
         "type": "spacing",
-        "description": "Default button spacing"
+        "description": "Button spacing"
+      },
+      "icon": {
+        "value": "{space.03}",
+        "type": "spacing",
+        "description": "Button spacing"
       }
     },
     "Left": {
@@ -3636,14 +3641,16 @@
       "value": "0px {radius.md} {radius.md} 0px",
       "type": "borderRadius"
     },
-    "Default Spacing": {
+    "default": {
       "value": "{space.04} {space.04}",
-      "type": "spacing"
+      "type": "spacing",
+      "description": "Default system spacing"
     },
     "component": {
       "message": {
         "value": "{space.04} {space.06}",
-        "type": "spacing"
+        "type": "spacing",
+        "description": "Message spacing"
       },
       "inline-message": {
         "value": "5.5px {space.03}",
