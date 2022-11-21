@@ -3628,9 +3628,9 @@
         "description": "Button spacing"
       },
       "icon": {
-        "value": "{space.03}",
+        "value": "{space.02}",
         "type": "spacing",
-        "description": "Button spacing"
+        "description": "Icon Only button spacing 8px"
       }
     },
     "Left": {
